@@ -4,3 +4,9 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+const whitIMages = require('next-images')
+
+module.exports = whitIMages({
+  esModule: true,
+})
