@@ -12,7 +12,7 @@ const Home: React.FC = () =>{
 
       <main>
         <SetupLogo />
-        <h1>Setup Nextjs</h1>
+        <h1>My Setup for Next.js</h1>
       </main>
     </div>
   );
